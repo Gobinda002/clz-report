@@ -86,22 +86,22 @@ body {
 }
 
 #card1 .card-body {
-  background-color: aqua;
+  background-color: #fc7c12;
 
 }
 
 #card2 .card-body {
-  background-color: aqua;
+  background-color: #fc7c12;
 
 }
 
 #card3 .card-body {
-  background-color: aqua;
+  background-color: #fc7c12;
 
 }
 
 #card4 .card-body {
-  background-color: aqua;
+  background-color: #fc7c12;
 
 }
 
@@ -111,7 +111,7 @@ body {
   box-sizing: border-box;
   padding: 30px;
   border-radius: 50px;
-  height: 80vh;
+  height: 85vh;
   justify-items: center;
   display: flex;
 }
